@@ -418,7 +418,7 @@ form input.qty {
 
 #services
 {
-	background: blue;
+	background: rgb(42, 42, 54);
 	background-size: cover;
 	background-position: center;
 	color:#555!important;
@@ -478,7 +478,7 @@ form input.qty {
 }
 
 .services .col-md-4:hover{
-	background:#007bff;
+	background:#10b864;
 	cursor: pointer;
 	transition: 0.7s;
 	
