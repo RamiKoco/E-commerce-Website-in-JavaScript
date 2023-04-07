@@ -29,7 +29,7 @@
 			this.$paypalForm = this.$element.find( "#paypal-form" ); 
 			
 			
-			this.currency = "&#8369;"; 
+			this.currency = "&dollar;"; 
 			this.currencyString = "PHP"; 
 			this.paypalCurrency = "PHP"; 
 			this.paypalBusinessEmail = "kocorami@gmail.com"; 
