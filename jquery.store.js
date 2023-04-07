@@ -33,7 +33,7 @@
 			this.currencyString = "PHP"; 
 			this.paypalCurrency = "PHP"; 
 			this.paypalBusinessEmail = "kocorami@gmail.com"; 
-			this.paypalURL = "https://www.RK.com/";
+			this.paypalURL = "index.html";
 			
 			
 			this.requiredFields = {
